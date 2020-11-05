@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+}
+
+#task {
+    width: 33vw;
+    margin: auto 1rem 1rem auto;
+}
+
+button {
+    margin: auto auto 1rem 0;
+}
